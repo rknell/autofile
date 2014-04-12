@@ -1,0 +1,11 @@
+{
+    "name": "autofile",
+    "version": "0.0.1",
+    "description": "Automatically files tv shows in the correct format for XBMC",
+    "main": "autofile.js",
+    "author": "Ryan Knell",
+    "private": false,
+    "dependencies":{
+        "mkdirp": "*"
+    }
+}
